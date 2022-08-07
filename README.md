@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jlnepomuceno
+- 👀 I’m interested in full-stack web development and project management.
+- 🌱 I’m currently learning TypeScript and the MERN stack
+- 💞️ I’m looking to collaborate on open-source web libraries
+- 📫 How to reach me: https://www.linkedin.com/in/john-louie-nepomuceno-1978577b/
